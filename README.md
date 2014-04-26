@@ -6,6 +6,7 @@ This function completes the following tasks:
 
 1. Merge the training set and the test set into one.
 2. Clean the data set by subsetting it with the features described in `CodeBook.md`.
+   and computing the mean by `melt` and `dcast`.
 3. Writes the cleaned data set into `TidyData.txt`.
 4. Return the cleaned data set.
 
